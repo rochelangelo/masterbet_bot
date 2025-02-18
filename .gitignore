@@ -1,0 +1,75 @@
+# Bytecode compilado
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Configurações do editor/IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs e bancos de dados locais
+*.log
+logs/
+*.sqlite3
+*.db
+
+# Arquivos temporários e caches
+*.swp
+*.swo
+*.bak
+*.tmp
+*.~*
+*.cache
+*.egg-info/
+dist/
+build/
+
+# Arquivos do Poetry
+poetry.lock
+
+# Arquivos do pipenv
+Pipfile
+Pipfile.lock
+
+# Arquivos do Docker
+*.dockerfile
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de deploy
+*.pem
+*.key
+*.crt
+
+# Configurações do pytest
+.cache/
+.pytest_cache/
+
+# Arquivos de cobertura de testes
+.coverage
+htmlcov/
+*.cover
+coverage.xml
+
+# Arquivos do mypy
+.mypy_cache/
+
+# Arquivos do black, isort e flake8
+.black/
+
+# Arquivos gerados
+.csv
