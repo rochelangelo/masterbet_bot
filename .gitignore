@@ -73,3 +73,6 @@ coverage.xml
 
 # Arquivos gerados
 .csv
+
+# ignora o chromedriver
+chromedriver-win64/
