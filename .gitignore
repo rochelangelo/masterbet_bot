@@ -72,7 +72,7 @@ coverage.xml
 .black/
 
 # Arquivos gerados
-.csv
+*.csv
 
 # ignora o chromedriver
 chromedriver-win64/
